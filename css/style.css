@@ -1069,7 +1069,7 @@ div.note {
   position: relative;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  padding: 0.6rem 16px 0.5rem 16px;
+  padding: 0.5rem 16px 0.5rem 16px;
   padding-left: calc(16px + 16px);
   border-radius: 4px;
   background: #f6f6f6;
@@ -2666,7 +2666,7 @@ div.gallery.stretch>p img {
 .article blockquote {
   position: relative;
   width: 100%;
-  padding: 0.6rem 16px 0.5rem 16px;
+  padding: 0.5rem 16px 0.5rem 16px;
   transition: all 0.28s ease;
   -moz-transition: all 0.28s ease;
   -webkit-transition: all 0.28s ease;
